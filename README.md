@@ -55,3 +55,14 @@ At Sign (@) - Used as a prefix to indicate a verbatim string literal, where esca
 Dollar Sign ($) - Used to denote string interpolation, allowing variables to be embedded directly within string literals.
 Backslash (\\) - Used as an escape character in string literals. For example, \\n for a new line or \\t for a tab.
 Hash (#) - Used in preprocessor directives, such as #define, #if, #else, #endif, #region, and #endregion.
+
+**Logincal Operators**
+And, OR used to create complex logical conditions that evalueate either true or false.
+AND combines two conditions and check if both are true
+OR combines two evalute two and check either of it should be true
+
+
+**Comparative Operators**
+Compare values using operators like equal to . greater than and less than.
+
+
